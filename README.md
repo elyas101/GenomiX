@@ -1,2 +1,2 @@
-# GenomiX
+# Calculate Genetic Risk Score
 R
